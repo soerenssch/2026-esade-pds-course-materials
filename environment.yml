@@ -3,7 +3,7 @@
 # Starting from scratch: conda env create -f environment.yml
 name: pds
 channels:
-  - conda-forge
+  - python
 dependencies:
   - python=3.12
   - pip
